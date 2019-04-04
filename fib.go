@@ -3,7 +3,7 @@ package fib
 
 // Fib calcula el 6to número de la secuencia fibonacci.
 func Fib() int {
-	return FibRecursivo(6)
+	return FibCiclo(6)
 }
 
 // FibCiclo calcula un número de la secuencia fibonacci para la posición n.
