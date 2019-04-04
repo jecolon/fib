@@ -1,9 +1,9 @@
 // fib contiene dos funciones para calcular números de la secuencia fibonacci.
 package fib
 
-// Fib calcula el 6to número de la secuencia fibonacci.
+// Fib calcula el 5to número de la secuencia fibonacci.
 func Fib() int {
-	return FibCiclo(6)
+	return FibCiclo(5)
 }
 
 // FibCiclo calcula un número de la secuencia fibonacci para la posición n.
